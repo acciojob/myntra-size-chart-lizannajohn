@@ -1,2 +1,48 @@
-
 /* Your CSS Code here. */
+table
+{
+    border-collapse: collapse;
+    width: 100%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+thead
+{
+    background-color: rgb(202, 67, 67);
+}
+
+thead, .head
+{
+    text-align: left;
+}
+
+th, td
+{
+    border: 1px solid black;
+    width: 500px;
+    height: 20px;
+}
+
+td
+{
+    text-align: right;
+}
+
+.row1
+{
+    background-color: rgb(228, 131, 131);
+}
+
+.row2
+{
+    color: black;
+    background-color: rgb(230, 157, 157);
+}
+
+.row3
+{
+    color: black;
+    background-color: lightgray;
+}
